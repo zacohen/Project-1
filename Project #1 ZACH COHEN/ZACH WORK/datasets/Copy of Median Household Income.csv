@@ -1,0 +1,67 @@
+ID Year,Year,Household Income by Race,Household Income by Race Moe,Geography,ID Geography,Slug Geography
+2018,2018,64174,1421,"Cabarrus County, NC",05000US37025,cabarrus-county-nc
+2018,2018,60822,480,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc
+2018,2018,49384,1207,"Gaston County, NC",05000US37071,gaston-county-nc
+2018,2018,60293,140,United States,01000US,united-states
+2018,2018,58198,1577,"Iredell County, NC",05000US37097,iredell-county-nc
+2018,2018,53318,1752,"Lincoln County, NC",05000US37109,lincoln-county-nc
+2018,2018,64312,601,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc
+2018,2018,75397,1287,"Union County, NC",05000US37179,union-county-nc
+2018,2018,52413,224,North Carolina,04000US37,north-carolina
+2018,2018,62431,1371,"York County, SC",05000US45091,york-county-sc
+2018,2018,55223,2390,"Lancaster County, SC",05000US45057,lancaster-county-sc
+2017,2017,55957,1217,"Iredell County, NC",05000US37097,iredell-county-nc
+2017,2017,50320,204,North Carolina,04000US37,north-carolina
+2017,2017,60716,1429,"Cabarrus County, NC",05000US37025,cabarrus-county-nc
+2017,2017,57871,485,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc
+2017,2017,57652,138,United States,01000US,united-states
+2017,2017,46626,1212,"Gaston County, NC",05000US37071,gaston-county-nc
+2017,2017,59394,1406,"York County, SC",05000US45091,york-county-sc
+2017,2017,50557,2667,"Lancaster County, SC",05000US45057,lancaster-county-sc
+2017,2017,70858,1509,"Union County, NC",05000US37179,union-county-nc
+2017,2017,61695,596,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc
+2017,2017,50782,1291,"Lincoln County, NC",05000US37109,lincoln-county-nc
+2016,2016,53937,1143,"Iredell County, NC",05000US37097,iredell-county-nc
+2016,2016,48256,229,North Carolina,04000US37,north-carolina
+2016,2016,55191,484,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc
+2016,2016,58970,1806,"Cabarrus County, NC",05000US37025,cabarrus-county-nc
+2016,2016,44288,1075,"Gaston County, NC",05000US37071,gaston-county-nc
+2016,2016,55322,120,United States,01000US,united-states
+2016,2016,49283,1443,"Lincoln County, NC",05000US37109,lincoln-county-nc
+2016,2016,59268,718,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc
+2016,2016,67194,1492,"Union County, NC",05000US37179,union-county-nc
+2016,2016,46852,1920,"Lancaster County, SC",05000US45057,lancaster-county-sc
+2016,2016,56482,1438,"York County, SC",05000US45091,york-county-sc
+2015,2015,53076,425,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc
+2015,2015,44016,1892,"Lancaster County, SC",05000US45057,lancaster-county-sc
+2015,2015,54117,1394,"York County, SC",05000US45091,york-county-sc
+2015,2015,53889,110,United States,01000US,united-states
+2015,2015,65903,1399,"Union County, NC",05000US37179,union-county-nc
+2015,2015,46868,206,North Carolina,04000US37,north-carolina
+2015,2015,54720,1592,"Cabarrus County, NC",05000US37025,cabarrus-county-nc
+2015,2015,42429,835,"Gaston County, NC",05000US37071,gaston-county-nc
+2015,2015,52306,1352,"Iredell County, NC",05000US37097,iredell-county-nc
+2015,2015,49215,2020,"Lincoln County, NC",05000US37109,lincoln-county-nc
+2015,2015,56854,639,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc
+2014,2014,51889,1397,"Iredell County, NC",05000US37097,iredell-county-nc
+2014,2014,53482,95,United States,01000US,united-states
+2014,2014,65893,1227,"Union County, NC",05000US37179,union-county-nc
+2014,2014,56472,675,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc
+2014,2014,48664,1945,"Lincoln County, NC",05000US37109,lincoln-county-nc
+2014,2014,42906,1777,"Lancaster County, SC",05000US45057,lancaster-county-sc
+2014,2014,42158,1112,"Gaston County, NC",05000US37071,gaston-county-nc
+2014,2014,53935,1141,"Cabarrus County, NC",05000US37025,cabarrus-county-nc
+2014,2014,53568,1352,"York County, SC",05000US45091,york-county-sc
+2014,2014,52591,446,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc
+2014,2014,46693,191,North Carolina,04000US37,north-carolina
+2013,2013,53046,89,United States,01000US,united-states
+2013,2013,55444,640,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc
+2013,2013,48940,1985,"Lincoln County, NC",05000US37109,lincoln-county-nc
+2013,2013,50329,1452,"Iredell County, NC",05000US37097,iredell-county-nc
+2013,2013,42017,1230,"Gaston County, NC",05000US37071,gaston-county-nc
+2013,2013,52051,352,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc
+2013,2013,53740,1400,"York County, SC",05000US45091,york-county-sc
+2013,2013,53551,1495,"Cabarrus County, NC",05000US37025,cabarrus-county-nc
+2013,2013,42217,1619,"Lancaster County, SC",05000US45057,lancaster-county-sc
+2013,2013,46334,196,North Carolina,04000US37,north-carolina
+2013,2013,65892,1746,"Union County, NC",05000US37179,union-county-nc
