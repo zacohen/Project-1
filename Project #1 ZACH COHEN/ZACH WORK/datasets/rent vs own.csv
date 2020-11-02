@@ -1,0 +1,67 @@
+ID Occupied By,Occupied By,ID Year,Year,Household Ownership,Household Ownership Moe,Geography,ID Geography,Slug Geography,share
+0,Owner Occupied,2018,2018,46908,888,"Iredell County, NC",05000US37097,iredell-county-nc,0.718940625
+0,Owner Occupied,2018,2018,606735,4464,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc,0.655707852
+0,Owner Occupied,2018,2018,70219,938,"York County, SC",05000US45091,york-county-sc,0.715388926
+0,Owner Occupied,2018,2018,25516,653,"Lancaster County, SC",05000US45057,lancaster-county-sc,0.781931846
+0,Owner Occupied,2018,2018,76444810,367132,United States,01000US,united-states,0.638475973
+0,Owner Occupied,2018,2018,60516,832,"Union County, NC",05000US37179,union-county-nc,0.805108761
+0,Owner Occupied,2018,2018,227899,2210,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc,0.56474107
+0,Owner Occupied,2018,2018,24475,592,"Lincoln County, NC",05000US37109,lincoln-county-nc,0.764318281
+0,Owner Occupied,2018,2018,54033,909,"Gaston County, NC",05000US37071,gaston-county-nc,0.663030407
+0,Owner Occupied,2018,2018,51670,882,"Cabarrus County, NC",05000US37025,cabarrus-county-nc,0.714671019
+0,Owner Occupied,2018,2018,2548705,14468,North Carolina,04000US37,north-carolina,0.650412635
+0,Owner Occupied,2017,2017,2517896,13596,North Carolina,04000US37,north-carolina,0.649889297
+0,Owner Occupied,2017,2017,593123,4236,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc,0.654404731
+0,Owner Occupied,2017,2017,75833135,358989,United States,01000US,united-states,0.638186806
+0,Owner Occupied,2017,2017,67863,1085,"York County, SC",05000US45091,york-county-sc,0.710317253
+0,Owner Occupied,2017,2017,24814,656,"Lancaster County, SC",05000US45057,lancaster-county-sc,0.789123867
+0,Owner Occupied,2017,2017,59339,780,"Union County, NC",05000US37179,union-county-nc,0.80504416
+0,Owner Occupied,2017,2017,224217,2059,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc,0.566916054
+0,Owner Occupied,2017,2017,23896,537,"Lincoln County, NC",05000US37109,lincoln-county-nc,0.764672
+0,Owner Occupied,2017,2017,45690,726,"Iredell County, NC",05000US37097,iredell-county-nc,0.720128611
+0,Owner Occupied,2017,2017,52730,768,"Gaston County, NC",05000US37071,gaston-county-nc,0.653553457
+0,Owner Occupied,2017,2017,50009,886,"Cabarrus County, NC",05000US37025,cabarrus-county-nc,0.708362843
+0,Owner Occupied,2016,2016,74881068,360470,United States,01000US,united-states,0.636115033
+0,Owner Occupied,2016,2016,57482,663,"Union County, NC",05000US37179,union-county-nc,0.795004426
+0,Owner Occupied,2016,2016,220137,2011,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc,0.569117693
+0,Owner Occupied,2016,2016,23414,614,"Lincoln County, NC",05000US37109,lincoln-county-nc,0.764863452
+0,Owner Occupied,2016,2016,44333,821,"Iredell County, NC",05000US37097,iredell-county-nc,0.718338842
+0,Owner Occupied,2016,2016,52637,794,"Gaston County, NC",05000US37071,gaston-county-nc,0.658753004
+0,Owner Occupied,2016,2016,48622,685,"Cabarrus County, NC",05000US37025,cabarrus-county-nc,0.712003397
+0,Owner Occupied,2016,2016,579260,3771,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc,0.653854316
+0,Owner Occupied,2016,2016,2471723,14278,North Carolina,04000US37,north-carolina,0.647829371
+0,Owner Occupied,2016,2016,65104,1031,"York County, SC",05000US45091,york-county-sc,0.705367397
+0,Owner Occupied,2016,2016,23833,613,"Lancaster County, SC",05000US45057,lancaster-county-sc,0.787347208
+0,Owner Occupied,2015,2015,74712091,353420,United States,01000US,united-states,0.638967348
+0,Owner Occupied,2015,2015,22589,636,"Lancaster County, SC",05000US45057,lancaster-county-sc,0.768464024
+0,Owner Occupied,2015,2015,47681,864,"Cabarrus County, NC",05000US37025,cabarrus-county-nc,0.709950715
+0,Owner Occupied,2015,2015,52638,887,"Gaston County, NC",05000US37071,gaston-county-nc,0.664906652
+0,Owner Occupied,2015,2015,44390,756,"Iredell County, NC",05000US37097,iredell-county-nc,0.728983627
+0,Owner Occupied,2015,2015,23191,527,"Lincoln County, NC",05000US37109,lincoln-county-nc,0.770772401
+0,Owner Occupied,2015,2015,218311,2236,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc,0.57482635
+0,Owner Occupied,2015,2015,56496,726,"Union County, NC",05000US37179,union-county-nc,0.798970457
+0,Owner Occupied,2015,2015,573214,4136,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc,0.657718306
+0,Owner Occupied,2015,2015,64200,1007,"York County, SC",05000US45091,york-county-sc,0.710790284
+0,Owner Occupied,2015,2015,2459072,13933,North Carolina,04000US37,north-carolina,0.65130956
+0,Owner Occupied,2014,2014,43904,775,"Iredell County, NC",05000US37097,iredell-county-nc,0.728370689
+0,Owner Occupied,2014,2014,62000,993,"York County, SC",05000US45091,york-county-sc,0.705306865
+0,Owner Occupied,2014,2014,56274,696,"Union County, NC",05000US37179,union-county-nc,0.810117471
+0,Owner Occupied,2014,2014,22067,611,"Lancaster County, SC",05000US45057,lancaster-county-sc,0.75821193
+0,Owner Occupied,2014,2014,218221,2233,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc,0.586740195
+0,Owner Occupied,2014,2014,23392,645,"Lincoln County, NC",05000US37109,lincoln-county-nc,0.776781563
+0,Owner Occupied,2014,2014,47653,837,"Cabarrus County, NC",05000US37025,cabarrus-county-nc,0.725389311
+0,Owner Occupied,2014,2014,74787460,343068,United States,01000US,united-states,0.64354838
+0,Owner Occupied,2014,2014,570946,3810,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc,0.665495625
+0,Owner Occupied,2014,2014,53135,813,"Gaston County, NC",05000US37071,gaston-county-nc,0.670820235
+0,Owner Occupied,2014,2014,2461741,13326,North Carolina,04000US37,north-carolina,0.657777366
+0,Owner Occupied,2013,2013,218240,1886,"Mecklenburg County, NC",05000US37119,mecklenburg-county-nc,0.595163749
+0,Owner Occupied,2013,2013,44075,855,"Iredell County, NC",05000US37097,iredell-county-nc,0.741154907
+0,Owner Occupied,2013,2013,2466388,12778,North Carolina,04000US37,north-carolina,0.663798911
+0,Owner Occupied,2013,2013,21723,533,"Lancaster County, SC",05000US45057,lancaster-county-sc,0.750207211
+0,Owner Occupied,2013,2013,61937,999,"York County, SC",05000US45091,york-county-sc,0.716175433
+0,Owner Occupied,2013,2013,23112,452,"Lincoln County, NC",05000US37109,lincoln-county-nc,0.770554111
+0,Owner Occupied,2013,2013,75075700,345645,United States,01000US,united-states,0.649386383
+0,Owner Occupied,2013,2013,55974,714,"Union County, NC",05000US37179,union-county-nc,0.820600783
+0,Owner Occupied,2013,2013,570793,4442,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-concord-gastonia-nc-sc,0.672603673
+0,Owner Occupied,2013,2013,47286,912,"Cabarrus County, NC",05000US37025,cabarrus-county-nc,0.730703259
+0,Owner Occupied,2013,2013,53108,900,"Gaston County, NC",05000US37071,gaston-county-nc,0.668445563
